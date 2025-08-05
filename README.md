@@ -37,6 +37,6 @@ I turned observations into recommendations:
 -Academic mentoring for the students with declining SPIs (targeted tutoring).
 -Attendance promotion programs — since attendance correlated with CPI, nudging students toward better attendance could improve outcomes.
 
-# Ultimately this project was a simple question turned into evidence: I turned classmates’ marks into a small dashboard and story that highlights who’s improving, what levers (like attendance) matter, and where we can intervene. It’s practical, respectful of privacy, and immediately useful for small-scale academic planning
-
 What makes this project special to me is that the dataset is my own class — people I know, real academic journeys I’ve seen. This made the analysis not just technical, but personal. And I believe that’s what makes data science powerful — it turns numbers into stories
+
+# Ultimately this project was a simple question turned into evidence: I turned classmates’ marks into a small dashboard and story that highlights who’s improving, what levers (like attendance) matter, and where we can intervene. It’s practical, respectful of privacy, and immediately useful for small-scale academic planning
